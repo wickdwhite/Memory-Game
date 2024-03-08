@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #D8BD8F;
+    font-family: "Courier New",monospace;
+    text-transform: uppercase;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+#grid{
+    width: 800px;
+    height: 300px;
+
+}
